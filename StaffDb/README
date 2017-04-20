@@ -1,0 +1,34 @@
+Instructions for loading into eclipse:
+
+1) Launch eclipse
+
+2) Select `File` > `New` > `Project...`
+
+3) Select `Java Project` in the menu options and click `Next`
+
+4)  Enter `StaffDb` in the `Project Name` line. Deselect `Use default location`
+   and choose the path to the <StaffDb> Directory in your filesystem.
+
+5) Click `Finish`
+
+6) In the Java perspective, right click `StaffDb` on the left side 
+   of the screen
+
+7) Left Click `Properties` at the bottom of the menu
+
+8) Left Click `Java Compiler` 
+
+9) In the `JDK Compliance` Section, set the `Compiler Compliance level` to 
+  1.7
+
+10) Click `Ok`
+
+Launching the Program
+
+1) To launch CreateStaffDb GUI, highlight CREATE_STAFFDB under StaffDb/src
+
+2) Click the Green Play button at the top of the screen
+
+3) Do the same for SEARCH_STAFFDB if you want to launch the SearchStaffDb GUI
+
+

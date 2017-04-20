@@ -1,0 +1,19 @@
+ID  NAME    DOB SSN START-DATE  TITLE   STATUS
+1111111111	Arthur Cunningham	09/25/1980	123456789	04/20/2017	Network Engineer	Active
+2222222222	Zebra Man	01/08/1996	120938493	07/08/2016	Junior Software Engineer	Active
+3333333333	Eli Manning	07/12/1984	919528572	01/02/2011	Project Manager	Active
+4444444444	Brett Favre	11/19/1976	112502364	04/22/2015	Security Consultant	Active
+5555555555	Tony Romo	02/04/1980	175632546	10/15/2003	System Administrator	Active
+6666666666	Super Old Guy	06/08/1917	087824258	11/14/1935	President	Retired
+7777777777	That guy who works here but no one knows his name	02/06/1984	674489295	04/20/2015	Software Test Designer	Active
+8888888888	Russell Wilson 	04/21/1984	492584724	07/05/2010	Network Engineer	Active
+9999999999	Alexandre Dumas	07/14/1966	230492029	08/21/1992	System Administrator	Resigned
+9192934059	John Smith	04/20/1984	000000001	04/20/2014	Project Manager	Active
+1029341701	George Clooney	01/07/1968	567676565	04/20/2002	Vice President	Active
+9183641936	Tom Hanks	04/20/1971	974629724	04/20/1996	Software Test Designer	Active
+2045240875	Kangaroo Jack	12/31/1987	094320842	04/20/2017	President	Active
+2405724375	Kangaroo Jack	04/20/1917	985345983	04/20/1937	Senior Manager	Active
+9843452524	Kangaroo Jack	04/20/1955	203151351	04/20/2017	Junior Software Engineer	Active
+0395486730	Jason Bourne	04/15/1971	019241245	02/06/2002	Security Consultant	Active
+1244034648	Ben Cunningham	09/25/1980	240238520	06/09/1999	Security Consultant	Active
+3458092029	Leo Tolstoy	05/04/1977	644445444	07/03/2016	Senior Manager	Active
